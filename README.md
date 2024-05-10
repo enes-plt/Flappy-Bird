@@ -1,4 +1,4 @@
-# Flappy-Bird 🐤
+# Flappy-Bird ![bird](https://github.com/enes-plt/Flappy-Bird/assets/152672327/f96871e3-e271-4ed8-af6b-392ab1183d79)
 
 Flappy-Bird via Java
 
